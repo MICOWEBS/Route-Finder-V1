@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { MapContainer, TileLayer, Marker, Polyline, useMapEvents, useMap } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
 import axios from "axios";
-import styles from "./MapComponent.module.css"; // Assuming a CSS module for styles
+import styles from "./MapComponent.module.css";
 
 const API_CONFIG = {
   orsKey: process.env.REACT_APP_ORS_API_KEY || "",
