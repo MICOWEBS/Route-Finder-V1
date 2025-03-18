@@ -12,7 +12,6 @@ Route Finder is a modern, interactive web application built with React, Leaflet,
 - **Interactive Map**: Click to set origin and destination or search for locations.
 - **Alternate Routes**: Displays up to three route options with distinct colors (blue, green, red).
 - **Travel Modes**: Switch between driving, cycling, and walking with automatic route updates.
-- **Route Simulation**: Animate travel along the selected route.
 - **Responsive Design**: Beautifully styled with Bootstrap for a seamless experience on all devices.
 - **Geolocation**: Use your current location as the origin with one click.
 
@@ -42,5 +41,5 @@ Route Finder is a modern, interactive web application built with React, Leaflet,
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/route-finder.git
+   git https://github.com/MICOWEBS/Route-Finder-V1.git
    cd route-finder
