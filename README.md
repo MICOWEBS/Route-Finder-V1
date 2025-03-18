@@ -1,6 +1,6 @@
 # Route Finder 🚗🚲🚶
 
-![Route Finder Demo](https://via.placeholder.com/800x400.png?text=Route+Finder+Demo)  
+![Route Finder Demo] 
 *A sleek React application for planning and visualizing routes with alternate options.*
 
 Route Finder is a modern, interactive web application built with React, Leaflet, and Bootstrap. It allows users to plan routes between two points, visualize alternate routes on an OpenStreetMap, and simulate travel paths. Whether you're driving, cycling, or walking, Route Finder provides distance, duration, and a dynamic map experience powered by OpenRouteService (ORS) and Nominatim APIs.
