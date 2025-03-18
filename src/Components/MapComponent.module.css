@@ -1,0 +1,43 @@
+.searchResults {
+    max-height: 200px;
+    overflow-y: auto;
+    border-radius: 10px;
+  }
+  
+  .hover-bg-light:hover {
+    background-color: #f1f3f5;
+  }
+  
+  .list-group-item-action {
+    transition: background-color 0.2s ease;
+    cursor: pointer;
+  }
+  
+  .btn-sm:hover {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Custom button styles */
+  .btn-primary {
+    border-radius: 10px;
+  }
+  
+  .btn-outline-secondary {
+    border-radius: 10px;
+  }
+  
+  .btn-sm {
+    border-radius: 8px;
+  }
+  
+  .btn-sm.rounded-circle {
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+    padding: 0;
+  }
+  
+  .card {
+    border-radius: 15px;
+    overflow: hidden;
+  }
